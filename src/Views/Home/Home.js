@@ -8,7 +8,8 @@ export default function About()
         <div>
         <Navbar/>
         <h1 className="home">Home Page</h1>
-        <Button/>
+        <Button text="About Me"/>
+        <Button text="Contact Me"/>
         </div>
     );
 }

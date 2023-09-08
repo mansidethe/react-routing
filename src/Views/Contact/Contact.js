@@ -8,7 +8,7 @@ export default function Contact()
 <div>
     <Navbar/>
     <h1 className="contact">Contact Page</h1>
-    <Button/>
+    <Button text="Contact Me"/>
 </div>
 
     )

@@ -8,7 +8,7 @@ export default function About()
         <div>
         <Navbar/>
         <h1 className="about">About Page</h1>
-        <Button/>
+        <Button text="About Me"/>
         </div>
     );
 }
